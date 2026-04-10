@@ -1,4 +1,4 @@
-# Elegant Proofs — Classical Theorems, Unexpected Paths
+# Elegant Proofs : Classical Theorems, Unexpected Paths
 
 > *Mathematics is not about numbers, equations, or algorithms. It is about understanding.*
 > — William Paul Thurston
