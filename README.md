@@ -6,11 +6,11 @@
 ![Style](https://img.shields.io/badge/Style-Dark%20Theme-222222?style=flat-square)
 
 > *Mathematics is not about numbers, equations, or algorithms. It is about understanding.*
-> — William Paul Thurston
+, William Paul Thurston
 
 I started this repository out of frustration.
 
-Every textbook proves the same theorems the same way. Cauchy's theorem via Green's theorem. The Gaussian integral via polar coordinates. The zeta function via Dirichlet series. These proofs are correct, but they are not honest — they hide the real reason why the theorem is true.
+Every textbook proves the same theorems the same way. Cauchy's theorem via Green's theorem. The Gaussian integral via polar coordinates. The zeta function via Dirichlet series. These proofs are correct, but they are not honest, they hide the real reason why the theorem is true.
 
 What I collect here are the other proofs. The ones that feel inevitable once you see them, and completely mysterious before. The ones where the method is more interesting than the result. Each proof was chosen because it answers a question I could not stop thinking about: *why is this true, really?*
 
@@ -33,7 +33,7 @@ Mathematics should feel like something.
 
 ## About
 
-I am a second-year mathematics student at Sorbonne University, working on random matrix theory and mathematical finance. This repository is a side project — a place to think carefully about classical mathematics before moving on to harder things.
+I am a second-year mathematics student at Sorbonne University, working on random matrix theory and mathematical finance. This repository is a side project, a place to think carefully about classical mathematics before moving on to harder things.
 
 If you find an error, or if you know a more elegant proof of anything here, I genuinely want to hear from you.
 
